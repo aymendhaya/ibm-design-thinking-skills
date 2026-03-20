@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcUKzH_PtyoGhUenhfBq18m8aStbOUPR5vWQ&s" width="100%" alt="IBM Enterprise Design Thinking Banner">
+<img src="assets/banner.png" width="100%" alt="IBM Enterprise Design Thinking Banner">
 
 ## IBM Enterprise Design Thinking Skill
 
