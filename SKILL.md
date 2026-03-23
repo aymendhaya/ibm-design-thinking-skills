@@ -1,18 +1,14 @@
 ---
 name: ibm-design-thinking
 description: >
-  Applies IBM Enterprise Design Thinking (EDT) guidance to software development and project ideation.
-  Use this skill whenever the user wants to: brainstorm project ideas, define a new feature or product,
-  understand user needs before coding, write user stories or Hills, run a Playback, structure a problem
-  statement, think through "who is this for?", plan an MVP, or apply human-centered thinking to any
-  engineering task. ALSO trigger when the user says "design thinking", "IBM EDT", "hills statement",
-  "sponsor users", "playback", "user outcome", "empathy map", "as-is scenario", "to-be scenario",
-  "speculative stories", "big idea vignettes", "research plan", "cognitive walkthrough", "assumptions",
-  "contextual inquiry", "storyboards", "wireframes", "paper prototypes", "experience-based roadmap",
-  "prioritization grid", "hopes and fears", "needs statements", "feedback grid", "daily syncs",
-  "retrospectives", or asks to "think like a designer". This skill bridges design thinking and
-  engineering — use it proactively whenever a task would benefit from user-centered framing, even
-  if the user hasn't explicitly asked for it.
+  Applies IBM Enterprise Design Thinking (EDT) to software development and project ideation.
+  Trigger when the user wants to: brainstorm ideas, define features, write user stories or Hills,
+  run a Playback, structure a problem statement, plan an MVP, or apply human-centered thinking.
+  Also trigger on keywords: "design thinking", "IBM EDT", "hills statement", "sponsor users",
+  "playback", "user outcome", "empathy map", "as-is scenario", "to-be scenario", "how might we",
+  "contextual inquiry", "storyboards", "wireframes", "needs statements", "feedback grid",
+  "prioritization grid", "hopes and fears", "retrospectives", "think like a designer".
+  Proactively apply EDT framing to any task that benefits from user-centered thinking.
 ---
 
 # IBM Enterprise Design Thinking Guide
